@@ -1,3 +1,4 @@
+# COLORS UTIL
 # ECHO DOES NOT SUPPORT COLORS BY DEFAULT, USE ECHO -E
 # FORMAT FOR COLORS IS \e[COLORm
 # COLOR IS COLOR CODE
@@ -26,3 +27,4 @@ italic="\e3m"
 underlined="\e4m"
 #UNCOMMENT LINE FOR TEST
 #echo -e "$red C $green O $yellow L $blue O $magenta R $cyan $reset S"
+# END OF COLORS UTIL
