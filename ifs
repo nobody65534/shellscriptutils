@@ -6,3 +6,8 @@
 # if [ -z "$var" ]; then
 # Inverted NULL if
 # if [ ! -z "$var" ]; then
+# if last command returned TRUE
+# if [ $? -eq 1 ]; then
+# if last command returned FALSE
+# if [ $? -eq 0 ]; then
+# NOTE: ONLY APPLIES TO COMMNADS WITH 0/1 RETURNS
