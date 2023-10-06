@@ -1,0 +1,8 @@
+# Y/N if
+# if [[ $yn =~ ^[Yy]$ ]]; then
+# Inverted Y/N if
+# if [[ ! $yn =~ ^[Yy]$ ]]; then
+# NULL if
+# if [ -z "$var" ]; then
+# Inverted NULL if
+# if [ ! -z "$var" ]; then
